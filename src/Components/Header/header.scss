@@ -1,0 +1,32 @@
+.header {
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  &__logo {
+    height: 60px;
+  }
+
+  &__title {
+    font-size: 60px;
+    font-family: 'Qwitcher Grypen', cursive;
+  }
+
+  &__logout {
+    background-color: #1DB954;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid #1DB954;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  &__logout:hover {
+    background-color: transparent;
+    color: black;
+  }
+}
+

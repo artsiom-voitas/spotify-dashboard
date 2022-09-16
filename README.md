@@ -1,70 +1,105 @@
-# Getting Started with Create React App
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a target="_blank" href="https://github.com/artyom-voitas/spotify-dashboard/">
+    <img src="src/images/logo.svg" alt="Logo" width="80" height="80">
+  </a>
 
-### `npm start`
+<h3 align="center">Spotify Dashboard</h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <p align="center">
+    Look at your personal information on Spotify
+    <br />
+    <a href="https://artyom-voitas.github.io/spotify-dashboard"><strong>View Demo</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/artyom-voitas/spotify-dashboard/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/artyom-voitas/spotify-dashboard/issues">Request Feature</a>
+  </p>
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<!-- ABOUT THE PROJECT -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## About The Project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="center">
+  <img src="src/images/screenshot-login-page.png" width="320" alt="Main page screenshot">
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+This application is built on the Spotify API. With it, you can:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* look at your personal information
+* go to the data editing page
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Built With
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* [![React][React.js]][React-url]
+* [![Redux][Redux.js]][Redux-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![Spotify][Spotify.com]][Spotify-url]
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<!-- CONTACT -->
 
-## Learn More
+## Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Artsiom Voitas - [@artyom_voitas](https://twitter.com/artyom_voitas) - artsiom.voitas@gmail.com
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Project Link: [https://github.com/artyom-voitas/spotify-dashboard](https://github.com/artyom-voitas/spotify-dashboard)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-### Analyzing the Bundle Size
+[contributors-shield]: https://img.shields.io/github/contributors/artyom-voitas/spotify-dashboard.svg?style=for-the-badge
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[contributors-url]: https://github.com/artyom-voitas/spotify-dashboard/graphs/contributors
 
-### Making a Progressive Web App
+[forks-shield]: https://img.shields.io/github/forks/artyom-voitas/spotify-dashboard.svg?style=for-the-badge
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+[forks-url]: https://github.com/artyom-voitas/spotify-dashboard/network/members
 
-### Advanced Configuration
+[stars-shield]: https://img.shields.io/github/stars/artyom-voitas/spotify-dashboard.svg?style=for-the-badge
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+[stars-url]: https://github.com/artyom-voitas/spotify-dashboard/stargazers
 
-### Deployment
+[issues-shield]: https://img.shields.io/github/issues/artyom-voitas/spotify-dashboard.svg?style=for-the-badge
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[issues-url]: https://github.com/artyom-voitas/spotify-dashboard/issues
 
-### `npm run build` fails to minify
+[license-shield]: https://img.shields.io/github/license/artyom-voitas/spotify-dashboard.svg?style=for-the-badge
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[license-url]: https://github.com/artyom-voitas/spotify-dashboard/blob/master/LICENSE
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[linkedin-url]: https://www.linkedin.com/in/artyom-voitas/
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+[React-url]: https://reactjs.org/
+
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+
+[Bootstrap-url]: https://getbootstrap.com
+
+[Spotify.com]: https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
+
+[Spotify-url]: https://developer.spotify.com/
+
+[Redux.js]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
+
+[Redux-url]: https://redux.js.org

@@ -1,0 +1,27 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 60px auto;
+  padding: 0 15px;
+  max-width: 625px;
+
+  &__button {
+    text-decoration: none;
+    background-color: #1DB954;
+    padding: 15px;
+    border-radius: 20px;
+    color: #FFFF;
+
+    &:hover {
+      color: black;
+    }
+  }
+
+  &__list {
+    list-style: circle;
+    margin-bottom: 100px;
+    padding: 0 15px;
+  }
+}
